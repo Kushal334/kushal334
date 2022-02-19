@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: kushalshingote2@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...I like to research about new technologies Theverge.com and Gsmarena.com
+- ⚡ Fun fact: ...I like to research about new technologies on websites such as Theverge.com and Gsmarena.com
 -->
