@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am kushal and I am really interested in Mobile technolgies and Data science, Machine learning as well as Data Analytics.
+I am kushal currently working as a softare developer specifically in Android(native) as well as iOS and I am really interested in Mobile technolgies and Data science, Machine learning as well as Data Analytics.
 My programming languages are Kotlin, Swift, Python (Jupyter Notebook).
 
 
