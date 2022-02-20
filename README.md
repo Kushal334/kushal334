@@ -1,10 +1,10 @@
 ### Hi there 👋
 I am kushal and currently working as a software developer specifically in Android(native) as well as iOS. I am really interested in Mobile technolgies and Data science, Machine learning as well as Data Analytics, Big Data.
 
-My programming languages are Kotlin, Swift, Python (Jupyter Notebook).
+My programming languages are Kotlin, Swift(iOS Development), Python (Jupyter Notebook).
 
 
-My favourite IDE: Android studio, Xcode, Pycharm.
+My favourite IDE: Android studio, Xcode(iOS), Pycharm.
 
 
 Here are some ideas to get you started:
